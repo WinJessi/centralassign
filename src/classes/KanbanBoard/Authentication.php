@@ -44,7 +44,7 @@ class Login {
 
 	private function _redirectToGithub()
 	{
-		$url = 'Location: https://github.com/login/oauth/authorize';
+		$url = 'Location: https://github.com/WinJessi/centralassign';
 		$url .= '?client_id=' . $this->client_id;
 		$url .= '&scope=repo';
 		$url .= '&state=LKHYgbn776tgubkjhk';
