@@ -1,0 +1,3 @@
+SetEnv GH_REPOSITORIES "https://github.com/WinJessi/gashub"
+SetEnv GH_CLIENT_ID "my value"
+SetEnv GH_CLIENT_SECRET "my value"
